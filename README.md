@@ -1,6 +1,6 @@
 # Streaker
 
-# 🌟 Streaker – Habit Tracker with Streaks, Calendar & Reminders
+# 🌟 Streaker – Habit Tracker 
 
 **Streaker** is a minimalist and elegant Progressive Web App that helps you build daily habits, visualize your streaks, and stay consistent — effortlessly. Designed with a royal aesthetic and built for performance, Streaker makes discipline beautiful.
 
